@@ -17,7 +17,7 @@ public class MailConfig {
 		JavaMailSenderImpl  jmsi = new JavaMailSenderImpl();
 		jmsi.setHost("smtp.gmail.com");
 		jmsi.setPort(587);
-		jmsi.setUsername("anumalashilpa2002@gmail.com");
+		jmsi.setUsername("umadeviv437@gmail.com");
 		jmsi.setPassword("ldgc cbpi kiuf kcww");
 		
 		Properties props = jmsi.getJavaMailProperties();
